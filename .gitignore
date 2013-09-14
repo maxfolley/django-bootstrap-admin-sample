@@ -3,5 +3,4 @@
 *.pot
 *.pyc
 django-bootstrap-admin
-django-bootstrap-admin/*
 env/*
