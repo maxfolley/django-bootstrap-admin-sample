@@ -1,0 +1,6 @@
+*.db
+*.log
+*.pot
+*.pyc
+django-bootstrap-admin/*
+env/*

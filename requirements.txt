@@ -1,0 +1,4 @@
+Django==1.5.3
+distribute==0.7.3
+django-bootstrap-admin==0.2
+wsgiref==0.1.2
